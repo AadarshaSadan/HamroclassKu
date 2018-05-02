@@ -1,0 +1,36 @@
+﻿<Window x:Class="HamroClass1.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HamroClass1"
+        mc:Ignorable="d"
+        ResizeMode="NoResize"
+        Title="Hamro Class Options" Height="430" Width="530">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/blurBackground.jpg"/>
+        </Grid.Background>
+        <Label Height="35" VerticalAlignment="Top" FontSize="20" HorizontalAlignment="Center" Width="90" Margin="205,0,229,0" Content="Options" />
+        <RadioButton IsChecked="True" Content="General" GroupName="optionsMenu" x:Name="general" Style="{StaticResource {x:Type ToggleButton}}" VerticalAlignment="Top" HorizontalAlignment="Left" Height="35" Width="90" Margin="115,50,0,0" Background="#FFF2F6FB" />
+        <RadioButton Content="Teachers" GroupName="optionsMenu" x:Name="teachers" Style="{StaticResource {x:Type ToggleButton}}" VerticalAlignment="Top" HorizontalAlignment="Left" Height="35" Width="90" Margin="205,50,0,0" Background="#FFF2F6FB"/>
+        <RadioButton Content="Application" GroupName="optionsMenu" x:Name="application" Style="{StaticResource {x:Type ToggleButton}}" VerticalAlignment="Top" HorizontalAlignment="Left" Height="35" Width="90" Margin="295,50,0,0" Background="#FFF2F6FB"/>
+        <Button x:Name="applyButton" Click="applyButton_Click" Content="Apply" HorizontalAlignment="Left" Height="44" Margin="355,334,0,0" VerticalAlignment="Top" Width="127" Background="{x:Null}"/>
+        <Button x:Name="cancelButton" Click="cancelButton_Click" Content="Cancel" HorizontalAlignment="Left" Height="44" Margin="223,334,0,0" VerticalAlignment="Top" Width="127" Background="{x:Null}"/>
+        <Grid Margin="14,94,10,297" Width="500" Height="10">
+            <Separator Margin="0,-1,0,5"/>
+        </Grid>
+        <Grid Margin="50,100,0,0" Height="200" Width="432" HorizontalAlignment="Left" VerticalAlignment="Top" >
+            <Label Content="One credit hour equals" VerticalAlignment="Top" Height="35" HorizontalAlignment="Left" Margin="2,21,0,0"/>
+            <Label Content="hours per week. " VerticalAlignment="Top" Height="35" HorizontalAlignment="Left" Margin="186,21,0,0"/>
+            <TextBox x:Name="noOfHoursPerCredit" Padding="4 8" HorizontalAlignment="Left" Height="35" Margin="138,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" Background="{x:Null}" BorderThickness="0,0,0,1"/>
+
+            <Label Content="One teacher may be associated with a maximum of " Height="35" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="0,61,0,0"/>
+            <Label Content="courses." VerticalAlignment="Top" Height="35" HorizontalAlignment="Left" Margin="325,61,0,0"/>
+            <TextBox x:Name="d" Padding="4 8" HorizontalAlignment="Left" Height="35" Margin="282,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="43" Background="{x:Null}" BorderThickness="0,0,0,1"/>
+
+        </Grid>
+
+
+    </Grid>
+</Window>

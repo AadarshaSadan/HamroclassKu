@@ -1,0 +1,10 @@
+com.peyxen.eventilizer
+com.peyxen.eventscape
+com.aadarsha.eventscape
+
+
+      
+keytool -exportcert -alias androiddebugkey -keystore C:\Users\USERNAME\.android\debug.keystore | C:\Users\bajag\Desktop\bin\openssl.exe sha1 -binary | C:\Users\bajag\Desktop\bin\openssl.exe base64
+      
+
+developmenthasj-:Ptbtl+dFgHBlbuwGHwZTm3vpJ0g=

@@ -1,0 +1,72 @@
+c:\users\asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\App.g.cs
+c:\users\asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.lref
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.pdb
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\MainWindow.baml
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.g.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.Properties.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.exe
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.pdb
+C:\Users\Asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\AddTeacher.baml
+C:\Users\Asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\AddTeacher.g.cs
+C:\Users\Asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\AddCourse.baml
+C:\Users\Asus\documents\visual studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\AddCourse.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe.config
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.exe
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.pdb
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\bin\Debug\HamroClass1.pdb
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\AddCourse.baml
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\AddTeacher.baml
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\AddCourse.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\AddTeacher.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\MainWindow.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\App.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.cache
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.lref
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\MainWindow.baml
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.g.resources
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.Properties.Resources.resources
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csproj.GenerateResource.Cache
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\Options.g.cs
+D:\Projects\Visual Studio\HamroClass1\HamroClass1\obj\Debug\Options.baml
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\Options.g.cs
+C:\Users\Asus\Documents\Visual Studio 2013\Projects\HamroClass1\HamroClass1\obj\Debug\Options.baml
+D:\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe.config
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.exe
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.pdb
+D:\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.exe
+D:\Projects\HamroClass1\HamroClass1\bin\Debug\HamroClass1.pdb
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csprojResolveAssemblyReference.cache
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\AddCourse.baml
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\AddTeacher.baml
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\AddCourse.g.cs
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\AddTeacher.g.cs
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\MainWindow.g.cs
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\Options.g.cs
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\App.g.cs
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.cache
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.lref
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\MainWindow.baml
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\Options.baml
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.g.resources
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.Properties.Resources.resources
+D:\Projects\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csproj.GenerateResource.Cache
+A:\HamroClass1\HamroClass1\obj\Debug\HamroClass1.csprojResolveAssemblyReference.cache
+A:\HamroClass1\HamroClass1\obj\Debug\AddCourse.baml
+A:\HamroClass1\HamroClass1\obj\Debug\AddTeacher.baml
+A:\HamroClass1\HamroClass1\obj\Debug\AddCourse.g.cs
+A:\HamroClass1\HamroClass1\obj\Debug\AddTeacher.g.cs
+A:\HamroClass1\HamroClass1\obj\Debug\MainWindow.g.cs
+A:\HamroClass1\HamroClass1\obj\Debug\Options.g.cs
+A:\HamroClass1\HamroClass1\obj\Debug\App.g.cs
+A:\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.cache
+A:\HamroClass1\HamroClass1\obj\Debug\HamroClass1_MarkupCompile.lref
+A:\HamroClass1\HamroClass1\obj\Debug\HamroClass1.exe
+A:\HamroClass1\HamroClass1\obj\Debug\HamroClass1.pdb
